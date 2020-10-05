@@ -1,3 +1,3 @@
 # verilog_designs
 
-This repo is for structural and behavorial verilog codes
+This repo is for structural and behavioral verilog codes
